@@ -21,7 +21,7 @@ function App() {
   <div>
 
    
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
     
     <Switch>
           <Route path="/equipo" component={Equipo}/>
