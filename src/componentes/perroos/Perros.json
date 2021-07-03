@@ -1,0 +1,37 @@
+{
+    "perros": [
+        {
+            "id": 1,
+            "raza":"Terrier sedoso australiano",
+            "thumbnail":"https://cdn.royalcanin-weshare-online.io/KyIwx2oBaxEApS7LbBxr/v1/bd105bl-hub-australian-silky-terrier-adult-standing?w=320&auto=compress&fm=jpg",
+            "imagen":"https://cdn.royalcanin-weshare-online.io/LCIwx2oBaxEApS7LmhxS/v1/bd105h-hub-australian-silky-terrier-adult-black-and-white?w=640&auto=compress&fm=jpg",
+            "descripcion":"El terrier sedoso australiano es un perro compacto, bastante bajo, pero con la presencia suficiente como para atrapar y acabar a los roedores de la casa.",
+            "acercade":"Los terrier sedosos son nativos de Sídney, Australia, y están estrechamente relacionados con el yorkshire terrier. Su pelaje es fino, liso y lustroso, y es lo que les da su nombre.</br> A pesar de su tamaño y apariencia refinada, estos perros tienen todas las características del terrier, incluida agudeza, actividad y solidez. Estos pequeños y alegres perros son excelentes compañeros gracias a su naturaleza sociable y adaptabilidad.",
+            "pais":"Australia",
+            "tamaño":"Muy pequeño",
+            "vida":"12–15 años"
+        },
+        {
+            "id": 2,
+            "raza":"BBull Terrier",
+            "thumbnail":"https://cdn.royalcanin-weshare-online.io/-mlZHWsBG95Xk-RB9fgV/v5/bd43bl-hub-bull-terrier-adult-standing?w=320&auto=compress&fm=jpg",
+            "imagen":"https://cdn.royalcanin-weshare-online.io/-2laHWsBG95Xk-RBd_jN/v1/bd43h-hub-bull-terrier-adult-black-and-white?w=640&auto=compress&fm=jpg",
+            "descripcion":"Los Bull Terrier son perros dedicados y valientes que son nada menos que los gladiadores del mundo canino.",
+            "acercade":"Disciplinados y apacibles, los Bull Terrier son especialmente buenos con las personas y se adaptan bien como compañeros para la familia.</br> Robustos, bien equilibrados y activos, los Bull Terrier tienen una expresión animada, terca e inteligente. En acción, los Bull Terrier lucen bien tenidos y se mueven con zancadas regulares, despreocupadas y simples, con una agilidad característica.",
+            "pais":"Francia",
+            "tamaño":"Pequeño",
+            "vida":"11–14 años"
+        },
+        {
+            "id": 3,
+            "raza":"Rottweiler",
+            "thumbnail":"https://cdn.royalcanin-weshare-online.io/z2krHWsBG95Xk-RBIvja/v1/bd14bl-hub-rottweiler-adult-standing?w=320&auto=compress&fm=jpg",
+            "imagen":"https://cdn.royalcanin-weshare-online.io/0GkrHWsBG95Xk-RBifgR/v5/bd14h-hub-rottweiler-adult-black-and-white?w=640&auto=compress&fm=jpg",
+            "descripcion":"A pesar de su tamaño y su temible reputación, el rottweiler tiene un temperamento afectuoso, obediente y dócil.",
+            "acercade":"Los rottweiler son perros grandes, musculosos y activos, que siempre están alertas a lo que sucede a su alrededor. A pesar de que puede llevarles un tiempo entrar en confianza con los desconocidos, son mascotas de familia leales y gratificantes. </br> Los rottweiler comenzaron como perros de ganado que llevaban a los rebaños hasta los grandes mercados de ganado del sur de Alemania; sin embargo, en las últimas décadas, se han convertido en uno de los perros de defensa más populares del mundo.",
+            "pais":"Alemania",
+            "tamaño":"Gigantes",
+            "vida":"10–12 años"
+        }
+    ]
+}

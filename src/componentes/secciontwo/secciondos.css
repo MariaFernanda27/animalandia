@@ -1,0 +1,62 @@
+.cajasecciones{
+	text-align: center;
+display: flex;
+
+}
+
+.tituloprc{
+	color: #752995;
+	text-shadow: 2px 2px 4px #000000;
+	text-align: center;
+	border-bottom: 1px solid #01FFFF;
+	font-size: 40px;
+}
+.cajauno h5{
+	color: #752995;
+	font-size: 20px;
+	padding-bottom: 1px; 
+}
+.cajados h5{
+	color: #752995;
+	font-size: 20px;
+	padding-bottom: 1px; 
+}
+.cajatres h5{
+	color: #752995;
+	font-size: 20px;
+	padding-bottom: 1px; 
+}
+p{
+	 font-weight: normal;
+}
+.cajauno{
+	padding-right:  30px;
+	padding-left: 20px;
+}
+
+.cajauno img{
+	padding-left: 30px;
+}
+
+.cajados img{
+	padding-left: 50px;
+}
+
+.cajatres img{
+	padding-left: 20px;
+}
+
+.cajados{
+	padding-right:  30px;
+	padding-left: 20px;
+}
+.cajatres{
+	padding-right:  30px;
+	padding-left: 20px;
+}
+
+@media screen and (min-width:768px){
+	.cajasecciones{
+		flex-direction: row;
+	}
+}

@@ -1,0 +1,56 @@
+header{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 10px;
+
+}
+.logo{
+    max-width: 250px;
+}
+.btn-azul {
+  color: #000;
+  background-color: #06E0D6;
+  border: 2px solid #06E0D6;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 5px;
+  width: 110px;
+  height: 40px;
+  margin-left: 10px;  
+}
+.btn-azul:hover {
+  color: #000;
+  background-color: #FFFFFF;
+  border: 3px solid #06E0D6;
+}
+.btn-morado{
+  color: #752995;
+  background-color: #FFFFFF;
+  border: 2px solid #752995;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 5px;
+  width: 133px;
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 80px;
+}
+.btn-morado:hover {
+  color: #FFFFFF;
+  background-color: #752995;
+  border: 3px solid #752995;
+}
+
+img{
+	padding-right: 10px;
+}
+
+
+@media screen and (min-width: 768px){
+	header{
+		flex-direction: row;
+		justify-content: space-between;
+	}
+}

@@ -1,0 +1,12 @@
+.btn{
+	background-color: pink;
+	color: #000000;
+	border-radius: 5px;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.btn:hover{
+	background-color: purple;
+	color: white;
+}

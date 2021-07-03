@@ -1,0 +1,20 @@
+.card{
+	max-width: 540px;
+}
+.card-title{
+	color:#752995;
+}
+.card-text{
+	text-align: justify;
+}
+.acercade{
+	color:#752995;
+}
+.textacercade{
+	text-align: justify;
+}
+.modal-title{
+	color:#752995;
+	font-size: 25px;
+	font-weight: bold;
+}
